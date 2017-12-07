@@ -1,0 +1,298 @@
+[
+  {
+    "type": "greeting",
+    "text": "Live long and prosper."
+  },
+  {
+    "type": "greeting",
+    "text": "Peace be upon you!"
+  },
+  {
+    "type": "greeting",
+    "text": "May the Fourth be with you."
+  },
+  {
+    "type": "greeting",
+    "text": "Ciao, baby!"
+  },
+  {
+    "type": "greeting",
+    "text": "Hasta la vista, baby!"
+  },
+  {
+    "type": "greeting",
+    "text": "Merry meet, merry part, and merry meet again!"
+  },
+  {
+    "type": "greeting",
+    "text": "Wooshay! Wooshay!"
+  },
+  {
+    "type": "greeting",
+    "text": "I bow to the divine in you."
+  },
+  {
+    "type": "greeting",
+    "text": "Ayubowan!!"
+  },
+  {
+    "type": "greeting",
+    "text": "May you live long."
+  },
+  {
+    "type": "greeting",
+    "text": "Namaste!!"
+  },
+  {
+    "type": "greeting",
+    "text": "On you no evil."
+  },
+  {
+    "type": "greeting",
+    "text": "It was good?"
+  },
+  {
+    "type": "greeting",
+    "text": "How did you wake?"
+  },
+  {
+    "type": "greeting",
+    "text": "Is your body well?"
+  },
+  {
+    "type": "greeting",
+    "text": "Waapun!!"
+  },
+  {
+    "type": "greeting",
+    "text": "Love be with you."
+  },
+  {
+    "type": "greeting",
+    "text": "Howzit?"
+  },
+  {
+    "type": "greeting",
+    "text": "Fair dinkum!"
+  },
+  {
+    "type": "greeting",
+    "text": "Dinky-di!!"
+  },
+  {
+    "type": "greeting",
+    "text": "Ace!"
+  },
+  {
+    "type": "greeting",
+    "text": "Beaut!"
+  },
+  {
+    "type": "greeting",
+    "text": "G'Day, mate!"
+  },
+  {
+    "type": "greeting",
+    "text": "What's buzzin' cousin?"
+  },
+  {
+    "type": "greeting",
+    "text": "Abyssinia!"
+  },
+  {
+    "type": "encouragement",
+    "text": "Give it a burl!"
+  },
+  {
+    "type": "encouragement",
+    "text": "Get flat out like a lizard drinking!"
+  },
+  {
+    "type": "encouragement",
+    "text": "I'm grinning like a shot fox!"
+  },
+  {
+    "type": "encouragement",
+    "text": "Best get a wiggle on!"
+  },
+  {
+    "type": "encouragement",
+    "text": "You and me both!"
+  },
+  {
+    "type": "encouragement",
+    "text": "You shred it, wheat!"
+  },
+  {
+    "type": "encouragement",
+    "text": "I'm strong to the finich... cause I eats me spinach!"
+  },
+  {
+    "type": "encouragement",
+    "text": "Flaming Fujiyama!"
+  },
+  {
+    "type": "encouragement",
+    "text": "The monkey's eyebrows!"
+  },
+  {
+    "type": "encouragement",
+    "text": "Tickety-boo!!"
+  },
+  {
+    "type": "congratulations",
+    "text": "You little ripper!"
+  },
+  {
+    "type": "congratulations",
+    "text": "Good onya!"
+  },
+  {
+    "type": "congratulations",
+    "text": "Ten-thousand thundering typhoons!"
+  },
+  {
+    "type": "congratulations",
+    "text": "Ring-a-ding-ding!!"
+  },
+  {
+    "type": "congratulations",
+    "text": "It's the bee's knees!"
+  },
+  {
+    "type": "congratulations",
+    "text": "Rip snorter of a ???"
+  },
+  {
+    "type": "congratulations",
+    "text": "Pretty damn spiffy!"
+  },
+  {
+    "type": "congratulations",
+    "text": "I'll be stuffed!"
+  },
+  {
+    "type": "congratulations",
+    "text": "I think I'm going to crack a fat!"
+  },
+  {
+    "type": "congratulations",
+    "text": "Yes! A hit on all sixes!"
+  },
+  {
+    "type": "disappointment",
+    "text": "Must be a ???"
+  },
+  {
+    "type": "disappointment",
+    "text": "No worries..."
+  },
+  {
+    "type": "disappointment",
+    "text": "Not another trip for biscuits?"
+  },
+  {
+    "type": "disappointment",
+    "text": "Suffering Samurais!"
+  },
+  {
+    "type": "disappointment",
+    "text": "...and Bob's your uncle."
+  },
+  {
+    "type": "disappointment",
+    "text": "Bloody 'ell."
+  },
+  {
+    "type": "disappointment",
+    "text": "Such a blue serge!"
+  },
+  {
+    "type": "disappointment",
+    "text": "Dog's bollocks!"
+  },
+  {
+    "type": "disappointment",
+    "text": "Fiddle sticks!"
+  },
+  {
+    "type": "disappointment",
+    "text": "I'll send it back beyond the black stump."
+  },
+  {
+    "type": "disappointment",
+    "text": "Eh! Now I'm cross as a frog in a sock!"
+  },
+  {
+    "type": "disappointment",
+    "text": "Applesauce!"
+  },
+  {
+    "type": "disappointment",
+    "text": "You sure are hard boiled."
+  },
+  {
+    "type": "disappointment",
+    "text": "Well, fudge!"
+  },
+  {
+    "type": "disappointment",
+    "text": "All balled up, eh?"
+  },
+  {
+    "type": "disappointment",
+    "text": "All wet, I guess?"
+  },
+  {
+    "type": "disappointment",
+    "text": "Well, horsefeathers."
+  },
+  {
+    "type": "disappointment",
+    "text": "Ole, Mrs. Grundy?"
+  },
+  {
+    "type": "disappointment",
+    "text": "Well at least you're on the level."
+  },
+  {
+    "type": "funny-quotes",
+    "text": "Time is of the essence! Comb your hair."
+  },
+  {
+    "type": "funny-quotes",
+    "text": "Sanity is a golden apple with no shoelaces."
+  },
+  {
+    "type": "funny-quotes",
+    "text": "Repent! The end is coming, $9.95 at Amazon."
+  },
+  {
+    "type": "funny-quotes",
+    "text": "Honesty blurts where deception sneezes."
+  },
+  {
+    "type": "funny-quotes",
+    "text": "Pastry satisfies where art is unavailable."
+  },
+  {
+    "type": "funny-quotes",
+    "text": "Delete not, lest yee too, be deleted."
+  },
+  {
+    "type": "funny-quotes",
+    "text": "O! Youth! What a pain in the backside."
+  },
+  {
+    "type": "funny-quotes",
+    "text": "Wishes are like goldfish with propellors."
+  },
+  {
+    "type": "funny-quotes",
+    "text": "Love the river's \"beauty\", but live on a hill."
+  },
+  {
+    "type": "funny-quotes",
+    "text": "Invention is the mother of too many useless toys."
+  }
+]
